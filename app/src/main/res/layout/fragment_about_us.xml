@@ -12,9 +12,10 @@
         android:layout_height="match_parent"
         android:layout_marginTop="100dp"
         android:id="@+id/t1"
+        android:textColor="@color/black"
         android:textSize="20dp"
         style="@style/TextAppearance.Material3.BodyLarge"
-        android:text="Welcome To Our App.Its safe and secure . We deals with all types of mobile software Android and IOS. If you to contact then please contact us on +923110147284 also on whastapp" />
+        android:text="Welcome To Our App.Its safe and secure . We deals with all types of mobile software Android and IOS. If you to contact then please contact us on whatsapp" />
 
 
 </FrameLayout>
